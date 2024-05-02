@@ -3,7 +3,9 @@
   "type": "containerized",
   "blockId": "INmoqx4RCCD561W11okY8",
   "source": {
-    "branch": "block_testabcde"
+    "branch": "block_testabcde",
+    "ssh": "git@github.com:grgshiji/testabcde.git",
+    "https": "https://github.com/grgshiji/testabcde.git"
   },
   "parentBlockIDs": [],
   "isPublic": true,
