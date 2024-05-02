@@ -1,0 +1,17 @@
+{
+  "name": "testabcde",
+  "type": "containerized",
+  "blockId": "INmoqx4RCCD561W11okY8",
+  "source": {
+    "branch": "block_testabcde"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "language": "ruby",
+  "variantOf": "UVsmiRmDw47vyRAhymktu",
+  "variantOfBlockId": "x502C4AknWO3aCzyg2X1_"
+}
